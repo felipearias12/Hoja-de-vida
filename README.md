@@ -1,12 +1,35 @@
-# Hoja de Vida
+# Hoja-de-vida
+# Hoja de Vida Web
 
-Este repositorio contiene la hoja de vida profesional. A continuación se muestra una plantilla que puedes editar con tu información personal.
+## Reto 1 - Página Web Personal
 
-## Información personal
-- Nombre: Tu Nombre Completo
-- Carrea: El nombre de lo que estudias
-- Semestre: El semestre en el que vas
-- Habilidades y tecnologias: Tus fuertes en la tecnologia
-- Enlace a github o linkedin
+Página web personal desarrollada como parte del Reto 1 de Ingeniería de Sistemas.
 
-Instrucciones: reemplaza los campos de ejemplo con tu información real. Guarda los cambios y, si lo deseas, usa este README como portada para compartir tu hoja de vida en GitHub o exportarlo a PDF.
+## Información
+
+- Nombre: Andres Felipe Arias
+- Carrera: Ingeniería de Sistemas
+- Semestre: 6
+- Tecnologías: HTML, CSS, JavaScript, Git y GitHub
+
+## Tecnologías utilizadas
+
+- HTML5
+- CSS3
+- Git
+- GitHub
+- Vercel
+
+## Evidencias
+1.![creacion de repositorio](image1.png)
+
+
+
+### Repositorio en GitHub
+
+![git](image-3.png)
+
+### Página desplegada en Vercel
+
+![vercel](image2.png)
+## URL final
